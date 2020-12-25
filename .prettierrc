@@ -1,0 +1,7 @@
+{
+    printWidth: 120, # 1行の文字数制限
+    "tabWidth": 4,
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "semi": false,
+}

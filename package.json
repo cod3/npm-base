@@ -1,5 +1,5 @@
 {
-  "name": "npm-base",
+  "name": "@cod3/npm-base",
   "description": "A base package for creating NPM packages with typescript+eslint+prettier+jest.",
   "version": "0.0.1",
   "main": "./dist/index.js",

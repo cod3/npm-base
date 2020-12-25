@@ -1,5 +1,5 @@
 # npm-base
-A base package for creating NPM packages with typescript+eslint+prettier.
+A base package for creating NPM packages with typescript+eslint+prettier+jest.
 
 # What is used
 ```

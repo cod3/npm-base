@@ -26,6 +26,13 @@ $ npm ls
 ├── ts-node@9.1.1
 └── typescript@4.1.3
 ```
-
-
+# how to use registory
+Set your .npmrc like below
+```
+@yourscope:registry=https://npm.pkg.github.com/
+//npm.pkg.github.com/:_authToken="your PAT"
+```
+# References
+See below for more information
+https://docs.github.com/ja/free-pro-team@latest/packages/guides/configuring-npm-for-use-with-github-packages
 

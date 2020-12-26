@@ -25,8 +25,6 @@ $ npm ls
 ├── ts-jest@26.4.4
 ├── ts-node@9.1.1
 └── typescript@4.1.3
-
-
 ```
 
 

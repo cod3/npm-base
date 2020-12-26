@@ -1,7 +1,7 @@
 {
   "name": "@cod3/npm-base",
   "description": "A base package for creating NPM packages with typescript+eslint+prettier+jest.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/index.js",
   "repository": {
     "type": "git",

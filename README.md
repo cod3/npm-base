@@ -10,7 +10,7 @@ $ npm install --save-dev jest ts-jest @types/jest
 $ npm install --save-dev rimraf
 
 $ npm ls
-@cod3/npm-base@0.0.1 /pathto/npm-base
+@cod3/npm-base@0.0.2 /pathto/npm-base
 ├── @types/jest@26.0.19
 ├── @types/node@14.14.16
 ├── @typescript-eslint/eslint-plugin@4.11.0

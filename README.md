@@ -26,7 +26,7 @@ $ npm ls
 ├── ts-node@9.1.1
 └── typescript@4.1.3
 ```
-# how to use registory
+# how to use
 Set your .npmrc like below
 ```
 @yourscope:registry=https://npm.pkg.github.com/
